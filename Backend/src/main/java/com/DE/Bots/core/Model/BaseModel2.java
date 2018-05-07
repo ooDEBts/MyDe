@@ -4,6 +4,8 @@ import org.bson.types.ObjectId;
 import org.springframework.data.annotation.Id;
 
 public class BaseModel2 {
+	
+	int my;
 	@Id
     private ObjectId id;
     public ObjectId getId() {
