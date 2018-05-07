@@ -5,7 +5,7 @@ import org.springframework.data.annotation.Id;
 
 public class BaseModel2 {
 	
-	int myNewThingWhaTisItfr;
+	int myNewThingWhaTisItadscdacfr;
 	@Id
     private ObjectId id;
     public ObjectId getId() {
