@@ -5,7 +5,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Document(collection = "bidds")
 public class BidDetails extends BaseModel {
 	private String ids;
-	private String abc;
+	private String bcd;
 	private String cName;
 	private double minPrice;
 	private double sellPrice;
