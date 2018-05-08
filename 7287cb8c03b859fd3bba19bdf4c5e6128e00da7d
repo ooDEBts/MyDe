@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9bedbc6f_62dd8498",
+        "filename": "Backend/src/main/java/com/DE/Bots/core/Model/BidDetails.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1014007
+      },
+      "writtenOn": "2018-05-08T10:16:15Z",
+      "side": 1,
+      "message": "Rename the String to \u0027bcd\u0027.",
+      "revId": "7287cb8c03b859fd3bba19bdf4c5e6128e00da7d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
