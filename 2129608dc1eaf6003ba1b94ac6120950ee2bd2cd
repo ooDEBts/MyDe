@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "23d804e3_f3c08444",
+        "filename": "Backend/src/main/java/com/DE/Bots/core/Model/BaseModel2.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1014007
+      },
+      "writtenOn": "2018-05-08T09:13:18Z",
+      "side": 1,
+      "message": "y do we need \u0027abc\u0027?",
+      "revId": "2129608dc1eaf6003ba1b94ac6120950ee2bd2cd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
