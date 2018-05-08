@@ -6,6 +6,7 @@ import org.springframework.data.annotation.Id;
 public class BaseModel2 {
 	
 	int myNewThingWhaTissItadscdacfra;
+	int abc;
 	@Id
     private ObjectId id;
     public ObjectId getId() {
