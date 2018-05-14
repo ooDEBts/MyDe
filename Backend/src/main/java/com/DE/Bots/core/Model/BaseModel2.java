@@ -7,6 +7,7 @@ public class BaseModel2 {
 	
 	int myNewThingWhaTissItadscdacfra;
 	int abc;
+	int cba;
 	@Id
     private ObjectId id;
     public ObjectId getId() {
